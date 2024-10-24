@@ -8,7 +8,7 @@ int main() {
     cin>>N;
     i=1;
     while(i<=N){
-        cout<<"scrivi il numero"<<endl;
+        cout<<"scrivi il numero."<<endl;
         cin>>numero;
         if(i==1){
             max=numero;
